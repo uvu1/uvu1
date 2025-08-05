@@ -14,5 +14,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=uvu1&count_private=true&show_icons=true" />
 </a>
 <a href="https://open.spotify.com/user/ifiq1qvttf7aogj6c1xsvbf0z">
-    <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ifiq1qvttf7aogj6c1xsvbf0z&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="155" height="300" alt="Spotify Profile">
+    <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ifiq1qvttf7aogj6c1xsvbf0z&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
 </a>

@@ -1,5 +1,5 @@
-## My Tools
-<img src="https://skillicons.dev/icons?i=cpp,ts,rust,neovim" />
+## Languages & Tools
+<img src="https://skillicons.dev/icons?i=cpp,ts,js,python,rust,neovim" />
 
 ## 🚀About me
 

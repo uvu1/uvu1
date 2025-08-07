@@ -4,8 +4,8 @@
 ## 🚀About me
 
 - 📘高校生です
-- 💕RustとTypeScriptとVimが好きです
-- 💫Kubernetesでおうちクラスタやってます
+- 💕RustとVimが好きです
+- 💫ProxmoxとKubernetesでおうちクラスタやってます
 - 🎈AfterEffectsで映像制作もかじってます（楽しい❗）
 
 ## 📊My Stats

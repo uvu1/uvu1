@@ -8,6 +8,12 @@
 - 💫ProxmoxとKubernetesでおうちクラスタやってます
 - 🎈AfterEffectsで映像制作もかじってます（楽しい❗）
 
+## 🧑‍💻Activities
+- [RisuPu](https://github.com/RisuPu) (2021~) Staff / Devlelopers
+- [KuronekoServer](https://github.com/kuronekoserver) (2025~) CO-Owners
+- [DiscordBot Yui](https://github.com/Yui-Discord-Project) (2019-2022) Owner
+- [ESCL](https://github.com/escl-gg) (2023-2024) Developers
+
 ## 📊My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
